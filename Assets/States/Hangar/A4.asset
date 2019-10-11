@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1e45b219282cd4e42b141cfa6071629d, type: 3}
-  m_Name: StartingState
+  m_Name: A4
   m_EditorClassIdentifier: 
-  storyText: "Festers. Everywhere. Armed mostly with gas-powered rock fingers. \nAt
-    least 10 of them guarding the hangar door.\nTypical.\n\nCould try punching my
-    way through. Or sneaking the long way to the emergency exit.\n\nWhat should I
-    do?\n1. Take them head on - rush the 10 guards.\n2. Sneak my way to the emergency
-    exit."
+  storyText: "You give it a good 10 minutes. No dice. Not going to happen.\r\n\r\nYou
+    do realise that you have no idea how to pick a lock right? You're an airship pilot,
+    not a common thief.\r\n\r\nSo what now?\r\n1. Fine, try to pry it."
+  nextStates:
+  - {fileID: 11400000, guid: 81df1ab968adcc04d9e5036f587e1bf7, type: 2}
