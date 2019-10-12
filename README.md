@@ -1,4 +1,7 @@
 # Text101
+
+You can play it here: http://server.ericsbinaryworld.com/Text101/The%20Injured%20Pilot/
+
 From a Udemy Class on Unity 2D games
 
 At this point in time I'm just following along with the class. In this particular game in order for the different 
