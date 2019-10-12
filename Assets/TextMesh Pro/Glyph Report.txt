@@ -1,0 +1,26 @@
+Font: Steampunk  Style: Regular
+Point Size: 64   SP/PD Ratio: 7.8%
+
+Characters included: 85/99
+Missing characters: 14
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+ID: 33	Hex: 21	Char [!]
+ID: 34	Hex: 22	Char ["]
+ID: 35	Hex: 23	Char [#]
+ID: 36	Hex: 24	Char [$]
+ID: 37	Hex: 25	Char [%]
+ID: 38	Hex: 26	Char [&]
+ID: 39	Hex: 27	Char [']
+ID: 40	Hex: 28	Char [(]
+ID: 41	Hex: 29	Char [)]
+ID: 126	Hex: 7E	Char [~]
+ID: 160	Hex: A0	Char [ ]
+ID: 8203	Hex: 200B	Char [​]
+ID: 8230	Hex: 2026	Char […]
+ID: 9633	Hex: 25A1	Char [□]
+
+Characters excluded from packing:
+----------------------------------------
